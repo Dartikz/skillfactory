@@ -11,6 +11,7 @@ public class Main {
         secondStation.fillingGasTank(600, 90000);
         secondStation.fillingGasTank(250, 9010);
         secondStation.fillingGasTank(50,2000);
+        secondStation.fillingGasTank(30,2000);
 
     }
 }
